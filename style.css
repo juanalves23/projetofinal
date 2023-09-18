@@ -1,0 +1,115 @@
+body{
+    background-image:linear-gradient(to right,#ffe600e8, #ff4d00) ;
+}
+
+a{
+            color: #000000;
+            font-size: 15px;
+            font-family: "Feather Bold";
+            text-transform: uppercase;
+            text-decoration: none;
+            display: inline-block;
+            padding: 12px 20px;
+            margin: 20px;
+            margin-left: 468px;
+            align-items: center;
+            border-radius: 16px;
+            background-color: #ff6200;
+        }
+
+        
+        form{
+            max-width: 400px;
+            margin: 0 auto;
+           
+        }
+
+        h1{
+            color: #000000;
+            margin: 10px;
+            font-size: 26px;
+            text-align: center;
+            font-family: "Georgia";
+        }
+
+        .login{
+            display: flex;
+            align-content: center;
+            flex-wrap: wrap;
+            align-items: center;
+            flex-direction: column;
+            justify-content: center;
+            padding: 20px;
+            border-radius: 5px;
+           
+        }
+
+        label{
+            display: flex;
+            margin-top: 10px;
+            font-family: "";
+            font-family: "Georgia";
+           
+        }
+
+        input[type=text]{
+            color: #000000;
+            font-size: 15px;
+            font-family: Georgia;
+            border: 2px solid #000000;
+            box-sizing: border-box;
+            border-radius: 10px;
+            width: 100%;
+            margin: 8px 0;
+            display: inline-block;
+            padding: 12px 20px;
+            background: #F7F7F7;
+          
+        }
+        input[type=email]{
+            color: #000000;
+            font-size: 15px;
+            font-family: Georgia;
+            border: 2px solid #000000;
+            box-sizing: border-box;
+            border-radius: 10px;
+            width: 100%;
+            margin: 8px 0;
+            display: inline-block;
+            padding: 12px 20px;
+            background: #ffffff;
+            
+        }
+
+
+        input[type=password]{
+            color: #000000;
+            font-size: 15px;
+            font-family: Georgia;
+            border: 2px solid #000000;
+            box-sizing: border-box;
+            border-radius: 10px;
+            width: 100%;
+            margin: 8px 0;
+            display: inline-block;
+            padding: 12px 20px;
+            background: #ffffff;
+        }
+
+        button{
+            color: #000000;
+            font-size: 15px;
+            font-family: "Feather Bold";
+            letter-spacing: .8px;
+            text-transform: uppercase;
+            width: 100%;
+            border: none;
+            padding: 12px 20px;
+            margin-top: 10px;
+            border-radius: 12px;
+            background-color: #ff5900;
+        }
+
+
+
+        
